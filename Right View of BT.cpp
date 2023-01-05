@@ -1,4 +1,4 @@
-
+//O(N)
 vector<int> rightView(Node *root)
     {
 
